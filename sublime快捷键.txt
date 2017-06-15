@@ -1,0 +1,60 @@
+1:按住shift+ctrl然后按←或→可快速选中一行中的某一部分，相当于双击鼠标选中。
+2：shift+ctrl键组合+↑↓。可实现类似鼠标选中之后移动的效果。
+
+光标定位到某一行-》ctrl+shift+↑↓，上下移动一行。
+
+3：ctrl+shift+d：快速复制光标所在的一整行，并复制到该行之前。
+
+
+4：ctrl+shift+m：选中花括号里面的全部内容不包括{}。
+	Ctrl+M：跳转到对应括号
+
+5：ctrl+shift+A：选中标签内的内容不包括标签，继续按会继续往上一层选择。
+
+6：Ctrl+Shift+Enter 光标前插入行。
+很好用，当因为某种原因需要插入新行的时候，使用它并且自带的缩进功能不需要使用tap键。
+
+7:  	Ctrl+Shift+[ 折叠代码
+	Ctrl+Shift+] 展开代码
+
+7：Ctrl+Shift+K  删除整行
+
+Shift+右键拖动：光标多不，用来更改或插入列内容
+
+Ctrl+P：搜索项目中的文件
+
+Ctrl+G：跳转到第几行
+
+Ctrl+W：关闭当前打开文件
+Ctrl+N：新建窗口
+
+Ctrl+Shift+V：粘贴并格式化
+
+Ctrl+D：选择单词，重复可增加选择下一个相同的单词
+
+Ctrl+L：选择行，重复可依次增加选择下一行
+
+Ctrl+Shift+L：选择多行
+
+Ctrl+Shift+Enter：在当前行前插入新行
+
+Ctrl+X：删除当前行
+
+Ctrl+R：前往 method
+
+Ctrl+K+B：开关侧栏
+
+Ctrl+F2：设置/删除标记
+
+Alt+F3：选择所有相同的词
+
+Alt+.：闭合标签
+
+Alt+Shift+数字：分屏显示
+
+Alt+数字：切换打开第N个文件
+
+
+
+
+
