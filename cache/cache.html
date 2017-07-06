@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>cache</title>
+<style type="text/css">
+*{margin: 0;padding: 0}
+</style>
+</head>
+<body>
+	<h1>cache</h1>
+<script type="text/javascript" src="../libs/jquery-1.11.3.js?hash="+Math.random()></script>
+<script type="text/javascript" src="caches.js"></script>
+<script type="text/javascript">
+// 封装缓存插件
+Caches.init();
+// window.setTimeout(function(){
+// 	Caches.get(1,function(count,caches){
+// 		console.log(conut);
+// 		console.log(caches)
+// 	})
+// },1000)
+// window.setInterval(function(){
+// 	var hours = new Date().getHours();
+// 	Caches.get(hours,function(count,caches){
+// 		console.log(count)
+// 		for(var time in caches){
+// 			console.log(time)
+// 			$(".tr"+time+"i").text(caches[time]);
+// 		}
+// 	},true)
+// }, 5000)
+
+// 1017735262
+
+</script>
+</body>
+</html>
